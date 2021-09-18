@@ -7,6 +7,10 @@
 The purpose of this repository is to share all main project I worked on or am still working on during my Data Analytics Studies.
 All work on this repository can be seen as work in progress and I am still adding and changing with new concepts covered in class.
 
+## Introduction Nicole
+
+Hi my name is Nicole, I am 32 years old. I am a Senior Financial Controller & Data Analyst with over 7 years’ experience in different controlling functions, industries, and countries. Analytical, naturally curious and questioning the status quo. Self-driven individual contributor but also a strong team player that always thinks about the bigger picture. Known for making Finance & Data understandable through clear stakeholder-oriented communication. Proven leadership and management skills.
+
 ## Projects Available
 
 ### Linear Regression Project - FIFA 2021 (Ironhack)
