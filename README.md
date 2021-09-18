@@ -19,11 +19,15 @@ Brief introduction to the project
 
 https://github.com/nicolerichter1989/P1_MoneyBall_FIFA.git
 
+<br />
+
 ### Linear Regression Project - Housing Prices (Ironhack)
 
 Brief introduction to the project
 
 https://github.com/nicolerichter1989/mid-bootcamp-project.git
+
+<br />
 
 ### Classification Project - Heart Failure (personal project)
 
@@ -31,11 +35,15 @@ Brief introduction to the project
 
 https://github.com/nicolerichter1989/heart_failure.git
 
+<br />
+
 ### Global Shark Attacks (personal project)
 
 Brief introduction to the project
 
 https://github.com/nicolerichter1989/global-shark-attacks.git
+
+<br />
 
 ## Additional Notes
 
