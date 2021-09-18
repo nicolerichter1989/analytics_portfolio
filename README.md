@@ -35,3 +35,12 @@ https://github.com/nicolerichter1989/global-shark-attacks.git
 
 ## Additional Notes
 
+
+## Python Libraries
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [statsmodels](https://www.statsmodels.org/stable/index.html)
+- [scipy](https://www.scipy.org/)
+- [sklearn](https://scikit-learn.org/stable/)
