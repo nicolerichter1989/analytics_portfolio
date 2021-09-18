@@ -1,6 +1,6 @@
 # Analytics Portfolio - Nicole Richter
 
-![analytics text](data.jpeg)
+![data text](data.jpeg)
 
 ## Porpose of this repository
 
