@@ -1,4 +1,4 @@
-# Analytics Portfolio - Nicole Richter
+/# Analytics Portfolio - Nicole Richter
 
 ![data text](data.jpg)
 
@@ -14,6 +14,7 @@ Hi my name is Nicole, I am 32 years old. I am a Senior Financial Controller & Da
 ## Projects Available
 
 ### Linear Regression Project - FIFA 2021 (Ironhack)
+**Project is currently under construction due to data loss - note from 19/09/2021**
 
 Dataset containing FIFA player information. (17125 rows * 107 columns)
 Objective: Use a Linear Regression Model to predict the Value of FIFA players.
