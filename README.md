@@ -15,7 +15,7 @@ Hi my name is Nicole, I am 32 years old. I am a Senior Financial Controller & Da
 
 ### Linear Regression Project - FIFA 2021 (Ironhack)
 
-Brief introduction to the project
+First of three projects during my Data Analytics studies at Ironhack.
 
 https://github.com/nicolerichter1989/P1_MoneyBall_FIFA.git
 
@@ -30,12 +30,6 @@ https://github.com/nicolerichter1989/mid-bootcamp-project.git
 Brief introduction to the project
 
 https://github.com/nicolerichter1989/heart_failure.git
-
-### Global Shark Attacks (personal project)
-
-Brief introduction to the project
-
-https://github.com/nicolerichter1989/global-shark-attacks.git
 
 ## Additional Notes
 
