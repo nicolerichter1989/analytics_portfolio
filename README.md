@@ -16,22 +16,22 @@ Hi my name is Nicole, I am 32 years old. I am a Senior Financial Controller & Da
 ### Linear Regression Project - FIFA 2021 (Ironhack)
 **Project is currently under construction due to data loss - note from 19/09/2021**
 
-Dataset containing FIFA player information. (17125 rows * 107 columns)
+Dataset containing FIFA player information. (17125 rows * 107 columns) <br>
 Objective: Use a Linear Regression Model to predict the Value of FIFA players.
 
 https://github.com/nicolerichter1989/P1_MoneyBall_FIFA.git
 
 ### Linear Regression Project - Housing Prices (Ironhack)
 
-Dataset containing property information. (21597 rows * 21 columns)
+Dataset containing property information. (21597 rows * 21 columns) <br>
 Objective: Build a model that will predict the price of a house based on features provided in the dataset.
 
 https://github.com/nicolerichter1989/mid-bootcamp-project.git
 
 ### Classification Project - Heart Failure (personal project)
 
-Dataset containing health/medical information. (299 rows * 13 columns)
-Create a model for predicting mortality caused by Heart Failure.
+Dataset containing health/medical information. (299 rows * 13 columns) <br>
+Objective: Create a model for predicting mortality caused by Heart Failure.
 
 https://github.com/nicolerichter1989/heart_failure.git
 
