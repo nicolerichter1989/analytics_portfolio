@@ -34,7 +34,7 @@ https://github.com/nicolerichter1989/mid-bootcamp-project.git
 Dataset containing kickstarter project information. (15.424 rows * 39 columns) <br>
 Objective: Create a model for predicting whether a new kickstarter project will be fully funded or not.
 
-https://github.com/nicolerichter1989/Final-Project---Kickstarter
+https://github.com/nicolerichter1989/kickstarter
 
 ### Classification Project - Heart Failure (personal project)
 
