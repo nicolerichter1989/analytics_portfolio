@@ -31,17 +31,10 @@ https://github.com/nicolerichter1989/mid-bootcamp-project.git
 ### Classification Project - Kickstarter (Ironhack)
 **Project is currently under construction - deadline for final presentation is the 28th of November 2021**
 
-Dataset containing kickstarter project information. (15.424 rows * 39 columns) <br>
-Objective: Create a model for predicting whether a new kickstarter project will be fully funded or not.
+Dataset containing kickstarter project information. (176.721 rows * 22 columns) <br>
+Objective: Create a model for predicting whether a kickstarter project will be successful (fully funded) or not.
 
 https://github.com/nicolerichter1989/kickstarter
-
-### Classification Project - Heart Failure (personal project)
-
-Dataset containing health/medical information. (299 rows * 13 columns) <br>
-Objective: Create a model for predicting mortality caused by Heart Failure.
-
-https://github.com/nicolerichter1989/heart_failure.git
 
 
 ## Python Libraries
